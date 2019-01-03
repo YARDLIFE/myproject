@@ -1,2 +1,2 @@
-Gitis a version control system.
+Gitis a distributed version control system.
 Git is a free software.
